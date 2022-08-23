@@ -1,0 +1,38 @@
+@import url('//fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Inconsolata&display=swap');
+
+
+* {
+    font-family: 'Inconsolata';
+    text-align: center;
+    font-size: 16px;
+}
+
+.laps {
+    font-family: 'Alumni Sans Pinstripe';
+    font-size: 32px;
+    font-weight: bold;
+}
+.laps span {
+    font-family: 'Alumni Sans Pinstripe';
+    font-size: 100px;
+}
+
+.time span{
+    font-family: 'Inconsolata';
+    font-size: 40px;
+}
+
+button {
+    font-family: 'Inconsolata';
+    background-color: #f9f9f9;
+    border: 1px solid black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 4px;
+}
+
+.bigger {
+    font-size: 40px;
+    padding: 10px 20px;
+}
